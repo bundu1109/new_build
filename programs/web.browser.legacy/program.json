@@ -1,0 +1,62 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "f0c6823584e880f0b9a2a2ae6a3d9a738f22d680.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/f0c6823584e880f0b9a2a2ae6a3d9a738f22d680.js?meteor_js_resource=true",
+      "replaceable": false,
+      "size": 588631,
+      "hash": "f0c6823584e880f0b9a2a2ae6a3d9a738f22d680",
+      "sri": "vGe6vhduY/BFZWWNSRBcDvQ36nHSPIAzCNz0CPY4yl+BsPw/vxR7fPSjYqJJFuIs0SH9IzVjeiW2nL3GH+R69A=="
+    },
+    {
+      "path": "f0c6823584e880f0b9a2a2ae6a3d9a738f22d680.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/f0c6823584e880f0b9a2a2ae6a3d9a738f22d680.stats.json?meteor_js_resource=true",
+      "size": 30634,
+      "hash": "41c13bdf73e9cce6e8f78c5e9eadfb1bdedaa661",
+      "sri": "A37zHgtNZhBP+IdL24fN1UrGd8wdS7ZHbfsUBeZ7WpQTEybz5kqdtTAx0fvL+mK3Jpjn7tIja3llCxN4cKlBiQ=="
+    },
+    {
+      "path": "524ea151167f0aa67862fb6b681b532466a7bc87.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/524ea151167f0aa67862fb6b681b532466a7bc87.css?meteor_css_resource=true",
+      "size": 41,
+      "hash": "524ea151167f0aa67862fb6b681b532466a7bc87",
+      "sri": "i8bAVDu6h2Wq7aL10YRcZblFqWuxypPZVPO25SR5u2NHxFViEbL11ku9nyreJFGlKb9Ne9fDQ775tbwY0PKCKg=="
+    },
+    {
+      "path": "packages/promise/promise.d.ts",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/promise/promise.d.ts",
+      "size": 633,
+      "hash": "4aa461da7ad90c74a51ddfccc84b055fc0403119",
+      "sri": "6MVw86BmnkmTtXXlCxaH8k7xIUcMZK4O57Nnu82uI5MJT9Fbru7Yv71SuHx+giKUM9wkRs7WkpqPWjADS+U2qw=="
+    },
+    {
+      "path": "packages/tracker/tracker.d.ts",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/tracker/tracker.d.ts",
+      "size": 5897,
+      "hash": "a9d4da7b54638215e049d50069891f190e190553",
+      "sri": "vKj3TeiIPvpGRYn9CRylmkIxQ2gYVMUBIycFXhTpYnUtO9Lb/qySeGrqa+rsEyKSPREbo4n9qsAxdKkSx9QXMA=="
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "0883676d0a831d480cfcb328b6433c8fb05ba6e0"
+    }
+  ]
+}
